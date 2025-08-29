@@ -62,12 +62,20 @@ body {
     padding: 20px;
     margin: 5%;
     text-align: center;
+    background-color: #204a70
 }
 #org-struc h2{
-    font-size: 1.5rem;
+    /* font-size: 1.5rem;
     margin: 20px;
     text-align: center;
-    ;
+    ; */
+    margin: 20px;
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #7f7f7f;
+    text-shadow: 0 1px 0 #fff, 0 2px 8px #b8b0a8a6;
+    font-weight: 700;
 }
 .org-image img{
     height: auto;
