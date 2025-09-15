@@ -218,6 +218,7 @@ textPath{
     transform: none;
     color: #B4D6E3;
     text-shadow: 2px 1px #645555;
+    background: linear-gradient(90deg, #f8f8f8 -76%, #204a70 100%);
 
   }
   .banner h1{
@@ -1058,5 +1059,6 @@ footer {
     display: flex;
   }
 }
+
 
 
