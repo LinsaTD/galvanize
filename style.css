@@ -808,8 +808,10 @@ textPath{
   padding: 60px 0 40px 0;
   border-radius: 18px;
   box-shadow: 0 8px 32px rgba(44, 62, 80, 0.08);
-  margin: 40px auto 0 auto;
-  max-width: 1100px;
+  /*margin: 40px auto 0 auto;
+  max-width: 1100px;*/
+      margin: 40px auto 40px auto;
+    max-width: 1700px;
 }
 
 #contact h2 {
@@ -1056,4 +1058,5 @@ footer {
     display: flex;
   }
 }
+
 
