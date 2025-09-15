@@ -206,7 +206,7 @@ textPath{
     flex: 1 1 10%;
     margin: 10px;
     text-align: center;
-    border: 2px solid black;
+    
     width: 500px;
     border-radius: 8px;
 }
@@ -1059,6 +1059,7 @@ footer {
     display: flex;
   }
 }
+
 
 
 
