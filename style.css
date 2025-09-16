@@ -677,7 +677,7 @@ textPath{
 #members {
 
   text-align: center;
-  background-color: #e3ecf7;
+  /*background-color: #e3ecf7;*/
 }
 
 #members h1 {
@@ -1059,6 +1059,7 @@ footer {
     display: flex;
   }
 }
+
 
 
 
