@@ -830,7 +830,7 @@
     transition: transform 0.2s, box-shadow 0.2s;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
   }
 
   .member-col:hover {
@@ -1164,5 +1164,6 @@
       display: flex;
     }
   }
+
 
 
