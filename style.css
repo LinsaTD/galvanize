@@ -852,6 +852,7 @@
     font-size: 1rem;
     color: #333;
     margin-bottom: 0;
+    text-align: justify;
   }
 
 
@@ -1164,6 +1165,7 @@
       display: flex;
     }
   }
+
 
 
 
