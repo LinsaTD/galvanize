@@ -1,70 +1,80 @@
-body, html{
-      height: 100%;
+body,
+html {
+    height: 100%;
     overflow-y: NONE
+}
 
-}
 body {
-  /* background: url('images/GREEN.jpg') no-repeat center center fixed; */
-  background-size: cover;
-  font-size: 1rem;
-  font-family: sans-serif;
-  margin: 0;
-  padding-top: 50px;
-  min-height: 100vh;
-  color: white;
+    /* background: url('images/GREEN.jpg') no-repeat center center fixed; */
+    background-size: cover;
+    font-size: 1rem;
+    font-family: sans-serif;
+    margin: 0;
+    padding-top: 50px;
+    min-height: 100vh;
+    color: white;
 }
-  body h2{
-    color:  #7f7f7f;;
-  }
-#company{
+
+body h2 {
+    color: #7f7f7f;
+    ;
+}
+
+#company {
     margin: 30px;
     /* background: linear-gradient(90deg, #f8f8f8 -78%, #204a70 100%); */
-    background-color: #204a70;
+      BACKGROUND-COLOR: #224c718f;
     padding: 20px;
     margin: 8% 5% 5% 5%;
     position: relative;
-  
+
 }
 
-#company img{
+#company img {
     width: 50px;
     height: 50px;
 
 }
-#company h1{
+
+#company h1 {
     margin: 20px;
     text-align: center;
     font-size: 36px;
     margin-bottom: 20px;
-    color: #7f7f7f;
+    color: #224c71;
     padding-top: 7%;
     text-shadow: 0 1px 0 #fff, 0 2px 8px #b8b0a8a6;
     font-weight: 700;
 }
-#company h2{
+
+#company h2 {
     font-size: 1rem;
     color: #48ffdf;
 }
-#company p{
-    font-size: 1rem; 
+
+#company p {
+    font-size: 1rem;
     text-align: justify;
 }
 
-.sub-section{
+.sub-section {
     display: inline-flex;
 }
-.sub-section h2{
+
+.sub-section h2 {
     padding: 15px 10px 10px 10px;
-    
+
 }
-#org-struc{
+
+#org-struc {
     background-color: #00000017;
     padding: 20px;
     margin: 5%;
     text-align: center;
-    background-color: #204a70
+    BACKGROUND-COLOR: #224c718f;
 }
-#org-struc h2{
+
+#org-struc h2 {
     /* font-size: 1.5rem;
     margin: 20px;
     text-align: center;
@@ -73,16 +83,30 @@ body {
     text-align: center;
     font-size: 36px;
     margin-bottom: 20px;
-    color: #7f7f7f;
+    color: #224c71;
     text-shadow: 0 1px 0 #fff, 0 2px 8px #b8b0a8a6;
     font-weight: 700;
 }
-.org-image img{
+
+#org-struc h3 {
+    color: #355d81;
+    padding: 20px 0px 0px 0px;
+    margin-bottom: 20px;
+    
+    font-weight: 700;
+}
+#org-struc p {
+    text-align: center;
+    padding: 0px 151px;
+}
+
+.org-image img {
     height: auto;
     width: 100%;
 
 }
-.org-structure{
+
+.org-structure {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,12 +114,14 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
 }
-.org-desc{
+
+.org-desc {
     flex: 1;
     min-width: 300px;
     text-align: justify;
 }
-.org-image{
+
+.org-image {
     flex: 1;
     min-width: 300px;
 }
