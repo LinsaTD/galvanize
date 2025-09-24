@@ -12,7 +12,7 @@ body {
   margin: 0;
   padding-top: 50px;
   min-height: 100vh;
-  background-color:  #043561;
+  background-color:  #426da1b3;
 }
   header {
     /* background-color: #b8b0a8f0; */
@@ -1059,6 +1059,7 @@ footer {
     display: flex;
   }
 }
+
 
 
 
